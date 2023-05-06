@@ -28,6 +28,7 @@ print(a * b)
 ## Challenge 3: Python Division
 
 The first line should contain the result of integer division, //. 
+
 The second line should contain the result of float division, /. 
 
 ```
