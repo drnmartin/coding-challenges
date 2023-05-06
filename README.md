@@ -12,8 +12,10 @@ print(my_string)
 ## Challenge 2: Arithmetic Operators
 
 1.The first line contains the sum of the two numbers.
+
 2. The second line contains the difference of the two numbers (first - second).
-2. The third line contains the product of the two numbers.
+
+3. The third line contains the product of the two numbers.
 
 ```
 print(a + b)
