@@ -1,6 +1,6 @@
 # HackerRank Easy Challenges in Python
 
-Challenge 4: 
+Challenge 4: Python If-Else
 
 Given an integer, perform the following conditional actions:
 
