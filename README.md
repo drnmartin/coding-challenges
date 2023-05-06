@@ -1,12 +1,24 @@
 # HackerRank Easy Challenges in Python
 
-## Challenge 1: Say Hello World with Python
+## Challenge 1: Say "Hello World!" with Python
 
 Print Hello World.
 
 ```
 my_string = "Hello, World!"
 print(my_string)
+```
+
+## Challenge 2: Arithmetic Operators
+
+1.The first line contains the sum of the two numbers.
+2. The second line contains the difference of the two numbers (first - second).
+2. The third line contains the product of the two numbers.
+
+```
+print(a + b)
+print(a - b)
+print(a * b)
 ```
 
 ## Challenge 4: Python If-Else
