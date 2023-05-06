@@ -23,6 +23,16 @@ print(a - b)
 print(a * b)
 ```
 
+## Challenge 3: Python Division
+
+The first line should contain the result of integer division, // . 
+The second line should contain the result of float division, / . 
+
+```
+print(a // b)
+print(a / b)
+```
+
 ## Challenge 4: Python If-Else
 
 Given an integer, perform the following conditional actions:
