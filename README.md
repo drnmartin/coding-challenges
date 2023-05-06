@@ -1,5 +1,7 @@
 # HackerRank Easy Challenges in Python
 
+These are my answers for the challenges on Python.
+
 ## Challenge 1: Say "Hello World!" with Python
 
 Print Hello World.
