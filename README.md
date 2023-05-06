@@ -1,6 +1,6 @@
 # HackerRank Easy Challenges in Python
 
-Challenge 1: Say Hello World with Python
+## Challenge 1: Say Hello World with Python
 
 Print Hello World.
 
@@ -9,7 +9,7 @@ my_string = "Hello, World!"
 print(my_string)
 ```
 
-Challenge 4: Python If-Else
+## Challenge 4: Python If-Else
 
 Given an integer, perform the following conditional actions:
 
