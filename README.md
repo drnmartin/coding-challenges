@@ -61,3 +61,12 @@ elif 6 <= n <= 20:
 elif n > 20:
         print("Not Weird")
 ```
+
+## Challenge: Python/Math/Power - Mod Power
+
+a = int(input())
+b = int(input())
+m = int(input())
+
+print(a**b)
+print(pow(a,b,m))
